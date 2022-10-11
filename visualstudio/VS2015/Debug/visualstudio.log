@@ -1,0 +1,89 @@
+﻿  bunker.cpp
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\bunker.cpp(34,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\bunker.cpp(34,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  entitymesh.cpp
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  game.cpp
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\game.cpp(166,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\game.cpp(232,40): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  grass.cpp
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\grass.cpp(16,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\grass.cpp(16,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\grass.cpp(34,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\grass.cpp(34,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\grass.cpp(51,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\grass.cpp(51,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\grass.cpp(69,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\grass.cpp(69,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\main.cpp(117,46): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\main.cpp(151,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  stage.cpp
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  tank.cpp
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\tank.cpp(29,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\tank.cpp(30,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\tank.cpp(38,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\tank.cpp(39,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  utils.cpp
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(83,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(138,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(139,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(287,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(288,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(313,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(323,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(345,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(347,17): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(360,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(369,14): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(409,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(410,59): warning C4244: 'argument': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(410,44): warning C4244: 'argument': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(410,29): warning C4244: 'argument': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(420,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(421,74): warning C4244: 'argument': conversion from '_Ty' to 'uint8', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(421,59): warning C4244: 'argument': conversion from '_Ty' to 'uint8', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(421,44): warning C4244: 'argument': conversion from '_Ty' to 'uint8', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\utils.cpp(421,29): warning C4244: 'argument': conversion from '_Ty' to 'uint8', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  world.cpp
+C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+animation.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\vc120.pdb'; linking object as if no debug info
+  visualstudio.vcxproj -> C:\Users\miquel\Documents\Universitat\Tercer\JocsElectronics\JEPractica3D\game_debug.exe
